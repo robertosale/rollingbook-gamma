@@ -19,6 +19,7 @@
     margin: 0 auto;
     background-color: #ECECEC;
     margin-right: 20px;
+    margin-top:120px;
 }
 
 .icono
@@ -81,6 +82,7 @@
     height: 1000px;
     float: left;
     z-index: 1;
+    margin-top:120px;
 }
 
 .menu{
@@ -142,3 +144,12 @@ button:nth-of-type(1) {
 
     
 }
+
+.btn-mycolor{
+    background-color: #343a40;
+}
+
+.btn:focus, .btn:active {
+    outline: none !important;
+    box-shadow: none !important;
+  }
