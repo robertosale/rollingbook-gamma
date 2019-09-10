@@ -237,3 +237,7 @@ input {
 .datos{
     font-family: Roboto;
 }
+
+.navbar-size{
+    height: 100px;
+}
