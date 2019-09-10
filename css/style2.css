@@ -164,8 +164,8 @@ input {
 
 .overlay {
 	background: #669AC3;
-	background: -webkit-linear-gradient(to right, #82B2D8, #4C7BA0);
-	background: linear-gradient(to right, #82B2D8, #4C7BA0);
+	background: -webkit-linear-gradient(138deg, #000000, #4C7BA0);
+	background: linear-gradient(138deg, #000000, #4C7BA0);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 0 0;
@@ -221,7 +221,7 @@ input {
 
 
 footer {
-    background-color: #343a40;
+    background: linear-gradient(138deg, #000000, #4C7BA0);
     color: #fff;
     font-size: 14px;
     bottom: 0;
@@ -239,7 +239,7 @@ footer {
 }
 
 .header{
-    background-color: #343a40;
+    background: linear-gradient(138deg, #000000, #4C7BA0);
 	height: 80px;
     position: relative;
     margin-bottom: 15px;
@@ -462,4 +462,9 @@ input {
 
 .navbar-size{
     height: 100px;
+}
+
+
+.navbar{
+    background: linear-gradient(138deg, #000000, #4C7BA0);
 }
